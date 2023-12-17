@@ -1,3 +1,5 @@
+# A modified version based on the original idea of ash´s pieces of 'hello_world.py' code. (soon)
+![Screensho](https://github.com/Brainhub24/PyPrinter/blob/main/images/first_look.png?raw=true)
 
 # Hello world
 
